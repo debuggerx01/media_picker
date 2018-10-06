@@ -4,6 +4,9 @@ version: 0.0.1
 author: Rhodes Davis
 homepage: https://www.github.com/AppleEducate/media_picker
 
+environment:
+  sdk: ">=2.0.0-dev.58.0 <3.0.0"
+
 dependencies:
   path_provider: "^0.4.0"
   flutter:
